@@ -290,7 +290,6 @@ h1{
 h4 {
     font-size: calc(18px + 6 * (100vw / 1280));
     padding: 5px 0px 5px;
-    text-decoration: underline;
 }
 
 .footer_block {
