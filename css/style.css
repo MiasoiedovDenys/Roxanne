@@ -211,6 +211,14 @@ h1{
     font-size: calc(16px + 6 * (100vw / 1280));
     margin-bottom: 15px;
 }
+
+.section-paragraph a {
+    font-weight: 400;
+    text-decoration: none;
+    color: #0000ff;
+    font-size: calc(18px + 6*(100vw / 1280));
+}
+
 .section-paragraph.formation {
     font-weight:700;
 }
